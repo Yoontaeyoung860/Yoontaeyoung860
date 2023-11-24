@@ -20,7 +20,7 @@
     <br>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoontaeyoung860)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hey 👋, There
 Hello! I am someone who loves coding and lives in Ulsan, South Korea. I would like to share code with many people from around the world.</p>
 ## Some of my Github Stats
