@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/C-ffb13b?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Linux-1572B6E?style=flat-square&logo=Linux&logoColor=Blue"/></a>&nbsp 
     <br>
 </p>
 
